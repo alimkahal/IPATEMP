@@ -87,11 +87,11 @@
       "type": "String"
     },
     "storageAccounts_automateddeploymentforle_name": {
-      "defaultValue": "automateddeploymentforle",
+      "defaultValue": "automateddep23453234",
       "type": "String"
     },
     "storageAccounts_automateddeploymentfo573_name": {
-      "defaultValue": "automateddeploymentfo573",
+      "defaultValue": "automateddep342352435",
       "type": "String"
     },
     "securityRules_RDP_name": {
