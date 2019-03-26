@@ -175,9 +175,7 @@
       "type": "String"
     },
     "virtualMachines_IPA_Worker_id": {
-      "defaultValue": "/subscriptions/f80b30d3-3950-4d84-b538-e11cc2ade32c/resourceGroups/DC-temp/providers/Microsoft.Compute/disks/IPA-Worker_OsDisk_1_99d214cf4a3a485c88409d9ecd785b0c
-
-",
+      "defaultValue": "/subscriptions/f80b30d3-3950-4d84-b538-e11cc2ade32c/resourceGroups/DC-temp/providers/Microsoft.Compute/disks/IPA-Worker_OsDisk_1_99d214cf4a3a485c88409d9ecd785b0c",
       "type": "String"
     }
   },
