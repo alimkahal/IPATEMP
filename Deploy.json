@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "Redis_nwlms_name": {
-      "defaultValue": "nwlms",
+      "defaultValue": "nwlms2321",
       "type": "String"
     },
     "virtualMachines_IPA_AD_name": {
