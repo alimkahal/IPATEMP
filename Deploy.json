@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "Redis_nwlms_name": {
-      "defaultValue": "nwlms2321",
+      "defaultValue": "nwlms1321",
       "type": "String"
     },
     "virtualMachines_IPA_AD_name": {
@@ -87,7 +87,7 @@
       "type": "String"
     },
     "storageAccounts_automateddeploymentforle_name": {
-      "defaultValue": "automateddep23423234",
+      "defaultValue": "automateddep23323234",
       "type": "String"
     },
     "storageAccounts_automateddeploymentfo573_name": {
